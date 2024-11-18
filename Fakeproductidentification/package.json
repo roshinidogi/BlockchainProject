@@ -1,0 +1,14 @@
+{
+  "name": "supply-chain-management",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+    "hardhat": "^2.22.15"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.9.3",
+    "qrcode": "^1.5.0"
+  }
+}
